@@ -1,0 +1,17 @@
+~~~~~~~~~~~~~ ZAKLADNE INFO O SIGNALE ~~~~~~~~~~~~~
+- Dlzka signalu vo vzorkoch: 45773
+- Dlzka signalu v sekundach: 2.8608125 s
+- Maximalna hodnota signalu: 0.269256591796875
+- Minimalna hodnota signalu: -0.147735595703125
+
+~~~~~~~~~~~~~ POROVNANIE DFT ~~~~~~~~~~~~~ 
+DFT su rovnake: True
+
+~~~~~~~~~~~~~ ZAVISLOST RUSIVYCH FREKVENCII ~~~~~~~~~~~~~ 
+Frekvencie su nasobkami najmensej frekvencie
+
+~~~~~~~~~~~~~ FILTRE ~~~~~~~~~~~~~ 
+Filter 1 je stabilny:True
+Filter 2 je stabilny:True
+Filter 3 je stabilny:True
+Filter 4 je stabilny:True
